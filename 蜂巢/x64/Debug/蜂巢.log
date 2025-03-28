@@ -1,0 +1,7 @@
+﻿  hexgrid.cpp
+  蜂巢.cpp
+  正在生成代码...
+蜂巢.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl HexGrid::HexGrid(int,int,int)" (??0HexGrid@@QEAA@HHH@Z)，函数 main 中引用了该符号
+蜂巢.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl HexGrid::~HexGrid(void)" (??1HexGrid@@QEAA@XZ)，函数 main 中引用了该符号
+蜂巢.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl HexGrid::run(void)" (?run@HexGrid@@QEAAXXZ)，函数 main 中引用了该符号
+C:\Users\404shelter\source\repos\蜂巢\x64\Debug\蜂巢.exe : fatal error LNK1120: 3 个无法解析的外部命令
